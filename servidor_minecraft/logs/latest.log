@@ -1,0 +1,27 @@
+[22:18:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:18:34] [ServerMain/INFO]: Loaded 1470 recipes
+[22:18:34] [ServerMain/INFO]: Loaded 1584 advancements
+[22:18:34] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[22:18:34] [Server thread/INFO]: Loading properties
+[22:18:34] [Server thread/INFO]: Default game type: SURVIVAL
+[22:18:34] [Server thread/INFO]: Generating keypair
+[22:18:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:18:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:18:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:18:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:18:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:18:34] [Server thread/INFO]: Preparing level "world"
+[22:18:34] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:18:34] [Server thread/INFO]: Preparing spawn area: 100%
+[22:18:34] [Server thread/INFO]: Time elapsed: 15 ms
+[22:18:34] [Server thread/INFO]: Done (0.362s)! For help, type "help"
+[22:19:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:20:09] [Server thread/INFO]: Linux_jar[/127.230.208.104:55289] logged in with entity id 19 at (10.5, 104.0, 2.5)
+[22:20:09] [Server thread/INFO]: Linux_jar joined the game
+[22:22:25] [Server thread/INFO]: Linux_jar has made the advancement [Stone Age]
+[22:23:05] [Server thread/INFO]: Linux_jar has made the advancement [Getting an Upgrade]
+[22:25:21] [Server thread/INFO]: [Not Secure] <Linux_jar> seed
+[22:26:45] [Server thread/WARN]: Linux_jar moved too quickly! 9.560528094354297,0.8783999538421625,-2.966108525179814
+[22:27:05] [Server thread/INFO]: Linux_jar lost connection: Disconnected
+[22:27:05] [Server thread/INFO]: Linux_jar left the game
+[22:28:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
